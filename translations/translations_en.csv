@@ -1,18 +1,18 @@
 ,en
-TIP_HEADER,"Did you know that..."
-TIP_1,"Each unit can attack only once a turn"
-TIP_2,"Units have weaknesses and advantages - only troops can capture buildings but they have almost no chance against tanks and tanks can’t attack helis"
-TIP_3,"You can deploy soldiers in HQ but it is cheaper to do so in the barracks"
-TIP_4,"A unit loses all its remaining AP for the turn when capturing a Tower"
-TIP_5,"All production buildings require a soldier to maintain it - capturing them will cost you a soldier unit"
-TIP_6,"HQ and captured Towers or Airports will produce cash in every turn"
-TIP_7,"Cash can be spent for deploying units and movement"
-TIP_8,"Use your cash wisely - a big army will be slower and less effective than a small squad"
-TIP_9,"It’s never a good idea to send a unit onto the battlefield alone"
-TIP_10,"Mixing unit types in squads gives you a strategic advantage"
-TIP_11,"You cannot deploy a unit when the spawning point is blocked and neither can the enemy - block enemy factories with your units"
-TIP_12,"Units can attack only adjacent tiles - so when your target is far away you should first move your unit closer"
-TIP_13,"HQ is the most valuable building in game - if you capture the enemy HQ you will win the game"
+TIP_HEADER,Did you know that...
+TIP_1,Each unit can attack only once a turn
+TIP_2,Units have weaknesses and advantages - only troops can capture buildings but they have almost no chance against tanks and tanks can’t attack helis
+TIP_3,You can deploy soldiers in HQ but it is cheaper to do so in the barracks
+TIP_4,A unit loses all its remaining AP for the turn when capturing a Tower
+TIP_5,All production buildings require a soldier to maintain it - capturing them will cost you a soldier unit
+TIP_6,HQ and captured Towers or Airports will produce cash in every turn
+TIP_7,Cash can be spent for deploying units and movement
+TIP_8,Use your cash wisely - a big army will be slower and less effective than a small squad
+TIP_9,It’s never a good idea to send a unit onto the battlefield alone
+TIP_10,Mixing unit types in squads gives you a strategic advantage
+TIP_11,You cannot deploy a unit when the spawning point is blocked and neither can the enemy - block enemy factories with your units
+TIP_12,Units can attack only adjacent tiles - so when your target is far away you should first move your unit closer
+TIP_13,HQ is the most valuable building in game - if you capture the enemy HQ you will win the game
 LABEL_WORKSHOP,WORKSHOP
 LABEL_MAIN_MENU,MAIN MENU
 LABEL_START_TURN,START TURN
@@ -136,9 +136,9 @@ LABEL_WORKSHOP_CONCRETE,CONCRETE
 MSG_NO_ENOUGH_AP,NOT ENOUGH AP
 MSG_START_YOUR_TURN_NOW,Start your turn now!
 MSG_EMPTY_DISPLAY,&lt; NOTHING TO DISPLAY&#000a;&lt; SELECT UNIT OR BUILDING
-MSG_GAME_DESCRIPTION_1,FREE* & OPEN-SOURCE
+MSG_GAME_DESCRIPTION_1,
 MSG_GAME_DESCRIPTION_2,TURN-BASED STRATEGY GAME
-MSG_FREE_AS_FREEDOM,"* FREE AS FREEDOM, NOT FREE AS IN FREE BEER"
+MSG_FREE_AS_FREEDOM,
 MSG_INDIE_GAME,INDIE GAME&#000a;DESIGN &amp; &#000a;DEVELOP
 MSG_WORKSHOP_USE_UNIQUE_NAME,USE UNIQUE NAME
 MSG_WORKSHOP_CREATE_NEW_ISLAND,CREATE NEW ISLAND
@@ -169,32 +169,32 @@ LABEL_PAGE,PAGE
 LABEL_WORKSHOP_SAVE,SAVE
 LABEL_WORKSHOP_LOAD,LOAD
 LABEL_MAP_TO_UPLOAD,Map to upload
-LABEL_PROCEED_QUESTION,"Proceed?"
+LABEL_PROCEED_QUESTION,Proceed?
 LABEL_UPLOAD_MAP,Upload Map
 LABEL_UPLOAD,Upload
 LABEL_CANCEL,Cancel
-TIP_COMPLETE_MAP_FIRST,"You need to complete this map first in skirmish mode in order to be able to upload it."
-LABEL_GOT_IT,"Got it!"
+TIP_COMPLETE_MAP_FIRST,You need to complete this map first in skirmish mode in order to be able to upload it.
+LABEL_GOT_IT,Got it!
 LABEL_ONLINE_MENU,ONLINE MAPS
-MSG_ONLINE_MENU_DESC,"DOWNLOAD NEW MAPS OR SHARE YOUR OWN CREATIONS WITH THE WORLD!"
-TIP_UPLOADING_WAIT,"Uploading! Please wait."
-TIP_UPLOADING_SUCCESS,"Upload successful! Now you can share your new map code with your friends: "
-TIP_UPLOADING_FAIL,"Upload failed. Please try again later."
+MSG_ONLINE_MENU_DESC,DOWNLOAD NEW MAPS OR SHARE YOUR OWN CREATIONS WITH THE WORLD!
+TIP_UPLOADING_WAIT,Uploading! Please wait.
+TIP_UPLOADING_SUCCESS,Upload successful! Now you can share your new map code with your friends: 
+TIP_UPLOADING_FAIL,Upload failed. Please try again later.
 LABEL_DONE,Done
-TIP_WELCOME_ONLINE,"Welcome to ToF Online!"
+TIP_WELCOME_ONLINE,Welcome to EW Online!
 TIP_NEED_REGISTER,"Before you can start using online options, we need to register your device with our online system."
 LABEL_REGISTER,Register
-LABEL_LATER,"Maybe later"
-LABEL_REGISTER_PLAYER,"Register Player"
-TIP_REQUESTING_PLAYER_ID,"Requesting Player ID! Please wait."
-TIP_REQUESTING_PLAYER_FAIL,"Requesting Player ID failed. Please try again later."
-TIP_REQUESTING_PLAYER_SUCCESS,"Requesting Player ID successful. Welcome to ToF Online!"
+LABEL_LATER,Maybe later
+LABEL_REGISTER_PLAYER,Register Player
+TIP_REQUESTING_PLAYER_ID,Requesting Player ID! Please wait.
+TIP_REQUESTING_PLAYER_FAIL,Requesting Player ID failed. Please try again later.
+TIP_REQUESTING_PLAYER_SUCCESS,Requesting Player ID successful. Welcome to EW Online!
 LABEL_DOWNLOAD_MAP,Download Map
-TIP_INPUT_CODE,"Please input map code"
+TIP_INPUT_CODE,Please input map code
 LABEL_DOWNLOAD,Download
-TIP_DOWNLOADING_WAIT,"Downloading map! Please wait."
-TIP_MAP_DOWNLOAD_SUCCESS,"Map has been downloaded."
-TIP_MAP_DOWNLOAD_FAIL,"Could not download a map. Please check if code is correct and try again."
+TIP_DOWNLOADING_WAIT,Downloading map! Please wait.
+TIP_MAP_DOWNLOAD_SUCCESS,Map has been downloaded.
+TIP_MAP_DOWNLOAD_FAIL,Could not download a map. Please check if code is correct and try again.
 LABEL_PLAY_AGAIN,PLAY AGAIN
 LABEL_VERSION,Version
 TITLE_GAMEPAD_CONFIG,GAMEPAD CONFIGURATION
@@ -212,75 +212,75 @@ LABEL_SUMMER,SUMMER
 LABEL_FALL,FALL
 LABEL_WINTER,WINTER
 LABEL_WORKSHOP_FAILURE,OPERATION FAILURE
-MSG_WORKSHOP_FILE_ERROR_NAME,"Map name may only contain alphanumeric characters and an underscore sign."
-MSG_WORKSHOP_FILE_NOT_FOUND,"Map with specified name does not exists."
-MSG_WORKSHOP_CHECK_TYPOS,"Please re-check file name"
+MSG_WORKSHOP_FILE_ERROR_NAME,Map name may only contain alphanumeric characters and an underscore sign.
+MSG_WORKSHOP_FILE_NOT_FOUND,Map with specified name does not exists.
+MSG_WORKSHOP_CHECK_TYPOS,Please re-check file name
 LABEL_OK,OK
 LABEL_NEXT_TURN,END TURN
 LABEL_CPU_TURN,CPU TURN
 LABEL_REFRESHING_MATCHES,REFRESHING MATCHES
-TIP_REFRESHING_WAIT,"REFRESHING ONLINE MATCHES LIST. PLEASE WAIT..."
+TIP_REFRESHING_WAIT,REFRESHING ONLINE MATCHES LIST. PLEASE WAIT...
 LABEL_CREATE_MATCH,CREATE MATCH
 MSG_CONFIRM_CREATE,DO YOU WANT TO HOST A NEW MATCH?
 LABEL_PROCEED,PROCEED
 LABEL_PICK_SIDE,PICK SIDE
 MSG_PICK_SIDE,PICK THE SIDE YOU WANT TO PLAY AS
-MSG_SELECTED_MAP,"SELECTED MAP: "
-MSG_SELECTED_SIDE,"SELECTED SIDE: "
-MSG_READY_TO_CREATE,"CREATE MATCH?"
-MSG_CREATING_MATCH_WAIT,"CREATING NEW MATCH. PLEASE WAIT..."
-LABEL_FAILURE,"OPERATION FAILURE"
-MSG_OPERATION_FAILED,"NETWORK OPERATION FAILED. PLEASE CHECK YOUR INTERNET CONNECTION AND TRY AGAIN."
-LABEL_JOIN_MATCH,"JOIN A MATCH"
-MSG_INPUT_MATCH_CODE,"INPUT MATCH JOIN CODE"
+MSG_SELECTED_MAP,SELECTED MAP: 
+MSG_SELECTED_SIDE,SELECTED SIDE: 
+MSG_READY_TO_CREATE,CREATE MATCH?
+MSG_CREATING_MATCH_WAIT,CREATING NEW MATCH. PLEASE WAIT...
+LABEL_FAILURE,OPERATION FAILURE
+MSG_OPERATION_FAILED,NETWORK OPERATION FAILED. PLEASE CHECK YOUR INTERNET CONNECTION AND TRY AGAIN.
+LABEL_JOIN_MATCH,JOIN A MATCH
+MSG_INPUT_MATCH_CODE,INPUT MATCH JOIN CODE
 LABEL_JOIN,JOIN
 MSG_ALREADY_IN_MATCH,YOU ARE ALREADY IN THAT MATCH
-MSG_FETCHING_MATCH_DETAILS,"FETCHING MATCH DETAILS. PLEASE WAIT..."
-MAG_AVAILABLE_SIDE,"AVAILABLE SIDE: "
-MAG_PROCEED_JOIN,"JOIN THIS MATCH?"
-MSG_JOINING_MATCH_WAIT,"JOINING A MATCH. PLEASE WAIT..."
-LABEL_MATCH_CODE,"MATCH CODE: "
-LABEL_YOUR_TURN,"YOUR TURN"
-LABEL_ENEMY_TURN,"OPPONENT TURN"
-LABEL_YOU_WIN,"YOU WON"
-LABEL_YOU_LOSE,"YOU LOST"
-LABEL_NEW_MATCH,"NEW MATCH"
-LABEL_MATCH_IN_PROGRESS,"IN PROGRESS"
-LABEL_MATCH_ENDED,"MATCH ENDED"
-LABEL_MATCH_FORFEIT,"OPPONENT LEFT"
-LABEL_MAP_CODE,"MAP: "
-LABEL_INVALID_MATCH,"INVALID MATCH"
-LABEL_ABANDON_MATCH,"ABANDON MATCH"
-MAG_ABANDON_MATCH,"ARE YOU SURE YOU WANT TO ABANDON THIS MATCH? YOU WILL NOT BE ABLE TO CONTINUE THIS GAME."
-LABEL_CLEAR_SLOT,"CLEAR GAME SLOT"
-MSG_CLEARING_SLOT_WAIT,"CLEARING GAME SLOT. PLEASE WAIT..."
-LABEL_SHOW_REPLAY,"SHOW REPLAY"
-MSG_SHOW_REPLAY,"DO YOU WANT TO SEE THE REPLAY OF OPPONENTS TURN?"
-LABEL_REPLAY,"REPLAY"
-LABEL_SKIP,"SKIP"
-LABEL_LOADING_MATCH,"LOADING MATCH"
-MSG_LOADING_MATCH_WAIT,"LOADING MATCH DATA. PLEASE WAIT..."
-MSG_OPPONENT_WAIT,"WAITING FOR OPPONENT..."
-MSG_CHECKING_STATE,"CHECKING FOR NEW MOVES..."
-LABEL_REPLAYING_MOVES,"REPLAYING TURN"
+MSG_FETCHING_MATCH_DETAILS,FETCHING MATCH DETAILS. PLEASE WAIT...
+MAG_AVAILABLE_SIDE,AVAILABLE SIDE: 
+MAG_PROCEED_JOIN,JOIN THIS MATCH?
+MSG_JOINING_MATCH_WAIT,JOINING A MATCH. PLEASE WAIT...
+LABEL_MATCH_CODE,MATCH CODE: 
+LABEL_YOUR_TURN,YOUR TURN
+LABEL_ENEMY_TURN,OPPONENT TURN
+LABEL_YOU_WIN,YOU WON
+LABEL_YOU_LOSE,YOU LOST
+LABEL_NEW_MATCH,NEW MATCH
+LABEL_MATCH_IN_PROGRESS,IN PROGRESS
+LABEL_MATCH_ENDED,MATCH ENDED
+LABEL_MATCH_FORFEIT,OPPONENT LEFT
+LABEL_MAP_CODE,MAP: 
+LABEL_INVALID_MATCH,INVALID MATCH
+LABEL_ABANDON_MATCH,ABANDON MATCH
+MAG_ABANDON_MATCH,ARE YOU SURE YOU WANT TO ABANDON THIS MATCH? YOU WILL NOT BE ABLE TO CONTINUE THIS GAME.
+LABEL_CLEAR_SLOT,CLEAR GAME SLOT
+MSG_CLEARING_SLOT_WAIT,CLEARING GAME SLOT. PLEASE WAIT...
+LABEL_SHOW_REPLAY,SHOW REPLAY
+MSG_SHOW_REPLAY,DO YOU WANT TO SEE THE REPLAY OF OPPONENTS TURN?
+LABEL_REPLAY,REPLAY
+LABEL_SKIP,SKIP
+LABEL_LOADING_MATCH,LOADING MATCH
+MSG_LOADING_MATCH_WAIT,LOADING MATCH DATA. PLEASE WAIT...
+MSG_OPPONENT_WAIT,WAITING FOR OPPONENT...
+MSG_CHECKING_STATE,CHECKING FOR NEW MOVES...
+LABEL_REPLAYING_MOVES,REPLAYING TURN
 LABEL_REFRESH,REFRESH
 LABEL_MULTIPLAYER,MULTIPLAYER
 LABEL_CREATE,CREATE
 LABEL_FORFEIT,FORFEIT
 LABEL_CLEAR,CLEAR
 LABEL_HELP,HELP
-MSG_MULTIPLAYER_WELCOME,"Welcome to ToF multiplayer!"
-TIP_ONLINE_HELP_1,"To start a new game, press the Create button on one of the free slots. If the button is disabled, it means that you need to download an online map first. Visit http://online.tof.p1x.in to find some! Once you have hosted a game, give the match code to your friend so they may join."
+MSG_MULTIPLAYER_WELCOME,Welcome to EW multiplayer!
+TIP_ONLINE_HELP_1,"To start a new game, press the Create button on one of the free slots. If the button is disabled, it means that you need to download an online map first. Visit http://online.EW.p1x.in to find some! Once you have hosted a game, give the match code to your friend so they may join."
 TIP_ONLINE_HELP_2,"While in a match, there is no time limit for you or your opponent to take a turn. Remember, you don't have to wait for your turn idly - you are free to play campaign, skirmish, or load into a different multiplayer match! Quitting the game is also an option, but would you do that?"
 TIP_ONLINE_HELP_3,"You are limited to only four match slots, so remember to clear the ones, that have ended."
 MSG_SPAWN_BLOCKED,SPAWN BLOCKED
 MSG_MULTIPLAYER_LOBBY_HEADLINE,ONLINE MULTIPLAYER LOBBY
-MSG_MULTIPLAYER_LOBBY_SUB,"you may have up to four simultaneous games"
+MSG_MULTIPLAYER_LOBBY_SUB,you may have up to four simultaneous games
 LABEL_WORKSHOP_CLEAR_MAP,CLEAR EVERYTHING IN MAP
 MSG_WORKSHOP_FILL_MAP,FILL MAP WITH GRASS TILES
 LABEL_WORKSHOP_TILES,TILES
 LABEL_PREVIEW,PREVIEW
-MSG_ASK_UPLOAD,"BEGIN MAP UPLOAD?"
+MSG_ASK_UPLOAD,BEGIN MAP UPLOAD?
 LABEL_GFX,GFX
 LABEL_SOUND,SFX
 LABEL_TOOLTIPS,TOOLTIPS

@@ -1,0 +1,13 @@
+*.sublime-*
+.idea
+Tanks-of-Freedom.iml
+.fscache
+
+.fscache
+
+export.cfg
+*.tmp
+*.keystore
+*export_android.cfg
+logs/log.txt
+animation_frames.xml
